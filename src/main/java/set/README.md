@@ -21,7 +21,7 @@
 
 [1] "Collections in Java Tutorial." DigitalOcean Community. Disponível em: https://www.digitalocean.com/community/tutorials/collections-in-java-tutorial.
 
-[2] "Java™ Platform, Standard Edition 17 API Specification - Class Set." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html.
+[2] "Java™ Platform, Standard Edition 21 API Specification - Class Set." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Set.html.
 
 ## Fixando os Conhecimentos
 

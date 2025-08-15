@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="./assets/image/collection-framework-methods.png" alt="List interface hierarchy Java"><br>
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html">Method Sumary Collection Interface</a>
+<a href="https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Collection.html">Method Sumary Collection Interface</a>
 </p>
 
 
@@ -26,11 +26,11 @@
 
 [1] "Java Collections - Universidade Java." Universidade Java. Disponível em: http://www.universidadejava.com.br/java/java-collection/.
 
-[2] "Java™ Platform, Standard Edition 17 API Specification - Interface Collection." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html.
+[2] "Java™ Platform, Standard Edition 21 API Specification - Interface Collection." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Collection.html.
 
 [3] "Java Comparator and Comparable - Baeldung." Baeldung. Disponível em: https://www.baeldung.com/java-comparator-comparable.
 
-[4] "Java™ Platform, Standard Edition 17 API Specification - Class Collections." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html.
+[4] "Java™ Platform, Standard Edition 21 API Specification - Class Collections." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Collections.html.
 
 ---
 ### Dúvidas e Suporte

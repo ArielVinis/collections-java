@@ -113,7 +113,7 @@ class CompararAnoAutorTitulo implements Comparator<Livro> {
 
 [2] "Difference between Comparable and Comparator in Java." JavaTpoint. Disponível em: https://www.javatpoint.com/difference-between-comparable-and-comparator.
 
-[3] "Java™ Platform, Standard Edition 17 API Specification - Class Collections." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html.
+[3] "Java™ Platform, Standard Edition 21 API Specification - Class Collections." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Collections.html.
 
 ---
 
